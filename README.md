@@ -1,4 +1,4 @@
-MAB2111 - Computing for Analytics 1
+## MAB2111 - Computing for Analytics 1
 
 Author: Maanne Lopez
 
